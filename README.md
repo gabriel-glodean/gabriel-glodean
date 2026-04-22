@@ -56,7 +56,7 @@ Home-lab gateway for Raspberry Pi — scan your LAN, wake devices via Shelly plu
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-glodean-bb47351b4/)
-- 📧 gabrielglodean
+- 📧 gabrielglodean@yahoo.co.uk
 
 ---
 
